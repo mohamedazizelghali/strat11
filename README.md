@@ -1,0 +1,2 @@
+# strat11
+fib 
